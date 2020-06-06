@@ -17,7 +17,7 @@ body{
     font-family: ‘Montserrat’, sans-serif;
     text-decoration: none;
     color: #2C2C2C;
-    background-color: #F4F0EA; 
+    background-color: #FCFAF9; 
     }
 
 /* -- End of General CSS--*/
@@ -38,7 +38,7 @@ body{
     display:flex;
     flex-direction: column;
     justify-content: space-evenly;
-    background-color: #F4F0EA;
+    background-color: #FCFAF9;
     position: absolute;
     top : 50%;
     left : 50%;
@@ -66,7 +66,7 @@ body{
 /* Apply Button --*/
 
 .button-div :hover{
-    color :#F3F1E9;
+    color :#FCFAF9;
     background-color:#2C2C2C ;
     text-decoration: none;
 }

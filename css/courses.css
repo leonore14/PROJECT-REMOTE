@@ -15,7 +15,7 @@ body{
     font-family: ‘Montserrat’, sans-serif;
     text-decoration: none;
     color: #2C2C2C;
-    background-color: #F4F0EA; 
+    background-color: #FCFAF9; 
     }
 
 a{
@@ -154,7 +154,7 @@ hr{
 
 
 .subtitle-textbox{
-    background-color:#F8E7C0; 
+    background-color:#F5EED1; 
     font-size: 1.5em;
     padding: 1em; 
     margin: auto;
@@ -172,7 +172,7 @@ hr{
 
 
 .apply-button-div :hover, .syllabus-button-div :hover{
-    color :#F3F1E9;
+    color :#FCFAF9 ;
     background-color:#2C2C2C ;
     text-decoration: none;
 }
@@ -195,10 +195,10 @@ hr{
     font-weight: 400;
     text-align: center;
     border-style: none; 
-    background-color: #F3F1E9 ;
+    background-color: #FCFAF9 ;
     color: #2C2C2C; 
     text-decoration: none;
-    border: 4px solid #2C2C2C;
+    border: 2px solid #2C2C2C;
 }
 
 /* course-side */
