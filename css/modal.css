@@ -15,7 +15,7 @@ body{
     font-family: ‘Montserrat’, sans-serif;
     text-decoration: none;
     color: #2C2C2C;
-    background-color: #F4F0EA; 
+    background-color: #FCFAF9; 
     }
 
 /* -- End of General CSS--*/
@@ -37,7 +37,7 @@ body{
 }
 
 .modal {
-    background-color: #F8E7C0;
+    background-color: #F5EED1;
     font-family: ‘Montserrat’, sans-serif;
     text-decoration: none;
     color: #2C2C2C;
@@ -88,7 +88,7 @@ body{
 }
 
 .contact-form-index input {
-    background-color: #F3F1E9;
+    background-color: #FCFAF9;
     width: 100%;
     border: none;
     border-radius: 5px;
@@ -108,7 +108,7 @@ body{
 }
 
 .send-button :hover{
-    color :#F3F1E9;
+    color :#FCFAF9;
     background-color:#2C2C2C ;
     text-decoration: none;
 }
@@ -128,7 +128,7 @@ body{
 }
 
 .close-button :hover{
-    color :#F3F1E9;
+    color :#FCFAF9;
     background-color:#2C2C2C ;
     text-decoration: none;
 }

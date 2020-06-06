@@ -15,7 +15,7 @@ body{
     font-family: ‘Montserrat’, sans-serif;
     text-decoration: none;
     color: #2C2C2C;
-    background-color: #F4F0EA; 
+    background-color: #FCFAF9; 
     }
 
 a{
@@ -97,7 +97,7 @@ hr{
 .students-box-img{
     width : 100%;
     border-radius: 200%;
-    border : solid #F4F0EA 30px;
+    border : solid #FCFAF9 30px;
 }
 
 .student-text{
@@ -111,7 +111,7 @@ hr{
 }
 
 .student-testimonial{
-    background-color: #F8E7C0;
+    background-color: #F5EED1;
     padding : 3%;
     padding-left : 30%;
     font-size: 1em;
@@ -120,7 +120,7 @@ hr{
 }
 
 .student-link{
-    background-color: #F8E7C0;
+    background-color: #F5EED1;
     padding : 3%;
     padding-left : 30%;
     font-size: 1em;
@@ -158,7 +158,7 @@ hr{
 }
 
 .student-testimonial-Dane{
-    background-color: #F8E7C0;
+    background-color: #F5EED1;
     padding : 3%;
     padding-right : 30%;
     font-size: 1em;
@@ -167,7 +167,7 @@ hr{
 }
 
 .student-link-Dane{
-    background-color: #F8E7C0;
+    background-color: #F5EED1;
     padding : 3%;
     padding-right : 30%;
     font-size: 1em;
@@ -188,7 +188,7 @@ hr{
 .students-box-img-Dane{
     width : 100%;
     border-radius: 200%;
-    border : solid #F4F0EA 30px;
+    border : solid #FCFAF9 30px;
 }
 
 /* --End of Students main section Dane --*/
@@ -228,7 +228,7 @@ hr{
 .students-box-img-Dane-small{
     width : 100%;
     border-radius: 200%;
-    border : solid #F4F0EA 30px;
+    border : solid #FCFAF9 30px;
 }
 
 .student-text-Dane-small{
@@ -242,7 +242,7 @@ hr{
 }
 
 .student-testimonial-Dane-small{
-    background-color: #F8E7C0;
+    background-color: #F5EED1;
     padding: 9%;
     padding-top : 50%;
     font-size: 1em;
@@ -253,7 +253,7 @@ hr{
 .student-link-Dane-small{
     padding : 9%;
     font-size: 1em;
-    background-color: #F8E7C0;
+    background-color: #F5EED1;
     font-weight: 80;
     text-align: center;
 }
